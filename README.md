@@ -1,0 +1,3 @@
+- This course covers “Java 7.”
+- In style, this is a tutorial rather than a textbook. 
+- Our approach here it starts with the basic building blocks of programming and builds from there. 
