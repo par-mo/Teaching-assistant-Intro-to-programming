@@ -1,0 +1,17 @@
+Linear regression: 
+	⁃	One of the most basic and popular algorithms in machine learning. 
+	⁃	Linear regression is the first algorithm we come across.
+	⁃	It finds the best possible line which fits that training set and then 	 predicts the unseen entity (based on our target variable)
+	⁃	Linear relationship between feature (one or more) and target variable. 
+
+
+
+
+
+To install Plotly's python package: 
+	⁃	https://plot.ly/python/getting-started/
+	⁃	Example: 
+		For generality, we define:
+			— x as feature vector, i.e x = [x_1, x_2, …., x_n],
+			— y as response vector, i.e y = [y_1, y_2, …., y_n]
+			— for n observations (in above example, n=10).
